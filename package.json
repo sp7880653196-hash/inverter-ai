@@ -1,0 +1,8 @@
+{
+  "name": "inverter-pcb-ai",
+  "version": "1.0.0",
+  "description": "Photo se inverter PCB pehchano",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
